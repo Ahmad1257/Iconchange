@@ -33,7 +33,7 @@ public class LongQuestions extends AppCompatActivity
         adapter = new LongQuestions_Adapter(this);
 
         models = new ArrayList<>();
-
+//some changes
         models.add(new LongQues_Model(R.drawable.longques1, "Chapter#1"));
         models.add(new LongQues_Model(R.drawable.longques2, "Chapter#2"));
         models.add(new LongQues_Model(R.drawable.longques3, "Chapter#3"));
